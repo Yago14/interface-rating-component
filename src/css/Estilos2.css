@@ -1,0 +1,44 @@
+.card-2{
+     
+      width: 400px;
+      height: 400px ;
+      background-color: hsl(213, 19%, 18%) ;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      border-radius: 1rem;
+      text-align: center;
+      margin: 2rem;
+     
+}
+
+
+.title-2{
+      color: hsl(0, 0%, 100%);
+      font-size: 2rem;
+      margin: 0 2rem;
+      font-weight: 400;
+      
+}
+.avaliado{
+      color:  hsl(25, 97%, 53%);
+      margin: 2rem  2rem;
+      background-color: hsl(213, 21%, 22%);
+      height: 30px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      border-radius: 2rem;
+     
+}
+.description-2{
+      color: hsl(216, 12%, 54%) ;
+      margin: 1rem  2rem;
+}
+.fechado{
+      display: none;
+}
+
+
+
